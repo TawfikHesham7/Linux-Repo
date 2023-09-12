@@ -1,4 +1,6 @@
 # Linux-Repo
-In this repo , it contains **Linux** commands that are useful ones for **SW**.
 
-_It iluustrates all  important linux commands with all explaining_ 
+In this repo , it contains & iluustrates important  **Linux** commands for **SW Testing**  & *DevOps* with explaining .
+
+
+## Installation 
